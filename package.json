@@ -1,0 +1,26 @@
+{
+  "name": "react-native-overlay-loader",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "author": "yura.pustylnikov@gmail.com",
+  "license": "MIT",
+  "homepage": "https://github.com/pustylnikov/react-native-overlay-loader",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pustylnikov/react-native-overlay-loader.git"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*",
+    "prop-types": "*"
+  },
+  "keywords": [
+    "react-native",
+    "loader",
+    "spinner"
+  ],
+  "dependencies": {
+    "prop-types": "^15.7.2"
+  }
+}
