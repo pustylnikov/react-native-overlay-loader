@@ -1,4 +1,4 @@
-<img width="320" src="https://storage.googleapis.com/anvilapp/npm-pictures/react-native-overlay-loader/ezgif-6-6c8a5fa519dc.gif"/>
+<img width="320" src="https://storage.googleapis.com/anvilapp/npm-pictures/react-native-overlay-loader/preview.gif"/>
 
 ### Installation
 ```js
@@ -46,7 +46,7 @@ class App extends Component {
                     </View>
                     <View>
                         <Button
-                            title='Show Big Red Loader'
+                            title='Show Custom Loader'
                             onPress={() => this.showLoader(this.customLoader)}
                         />
                     </View>
